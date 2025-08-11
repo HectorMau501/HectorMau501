@@ -12,4 +12,4 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=HectorMau501&theme=dark-minimalist)](https://git.io/streak-stats)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HectorMau501&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HectorMau501&theme=dark&layout=compact)
