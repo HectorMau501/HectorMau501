@@ -10,6 +10,6 @@
 
 ### GitHub Stats
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=HectorMau501&theme=dark)](https://git.io/streak-stats)
+<img width="742" height="295" alt="image" src="https://github.com/user-attachments/assets/f965bc23-bba6-484f-b99f-b93fcae02544" />
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HectorMau501&theme=dark&layout=compact)
